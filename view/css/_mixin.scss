@@ -1,0 +1,16 @@
+@mixin centerContainerX
+	{
+		display:grid;
+		justify-content:center;
+	}
+@mixin centerContainerY
+	{
+		display:grid;
+		align-items:center;
+	}
+@mixin centerContainerXY
+	{
+		display:grid;
+		justify-content:center;
+		align-items:center;
+	}

@@ -1,0 +1,6 @@
+.container-center {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 1fr;
+  -ms-grid-columns: 200px 500px 200px;
+  grid-template: 1fr / 200px 500px 200px; }
